@@ -50,6 +50,6 @@
   },
   "dependencies": {
     "clean-webpack-plugin": "^0.1.14",
-    "copy-webpack-plugin": "^4.0.1"
+    "copy-webpack-plugin": "^5.0.0"
   }
 }
